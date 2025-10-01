@@ -3,10 +3,11 @@ export libwebsockets
 
 using OpenSSL_jll
 using Zlib_jll
+using LibUV_jll
 JLLWrappers.@generate_wrapper_header("libwebsockets")
-JLLWrappers.@declare_library_product(libwebsockets, "libwebsockets.so.19")
+JLLWrappers.@declare_library_product(libwebsockets, "libwebsockets.so.20")
 function __init__()
-    JLLWrappers.@generate_init_header(OpenSSL_jll, Zlib_jll)
+    JLLWrappers.@generate_init_header(OpenSSL_jll, Zlib_jll, LibUV_jll)
     JLLWrappers.@init_library_product(
         libwebsockets,
         "lib/libwebsockets.so",

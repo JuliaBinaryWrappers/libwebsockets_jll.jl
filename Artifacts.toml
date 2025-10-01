@@ -1,144 +1,144 @@
 [[libwebsockets]]
 arch = "aarch64"
-git-tree-sha1 = "187a8618e840ab9f390eb439682ba3b581b0db45"
+git-tree-sha1 = "4a742086966d6a750cbce0b4d0603be04b5d4b71"
 os = "macos"
 
     [[libwebsockets.download]]
-    sha256 = "1678c7e234634b667bc2ff68e94e60c01f974da4ee3488ae16f227b1be97ac8d"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "e210719c829bad35adfcdf08372ebad3ad8b5aaa9ef2a00c3f814887b150dd0b"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.aarch64-apple-darwin.tar.gz"
 [[libwebsockets]]
 arch = "aarch64"
-git-tree-sha1 = "ad9d44d38f881fbdfb8cfc9d48cad2c47c44fe30"
+git-tree-sha1 = "ac0bea41300c321112d60af01461de9f83c2049d"
 libc = "glibc"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "f7e99d04ff4a10b909a8377fc7a9113673a9e0b1ec0537753c15b16b8f45f53e"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "958174bc373ca1582f5ba49fb5181b2bd33443e815d02a513cda9992b7efe43a"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.aarch64-linux-gnu.tar.gz"
 [[libwebsockets]]
 arch = "aarch64"
-git-tree-sha1 = "485083af79e64676182c697a427c7b94f1a5556f"
+git-tree-sha1 = "7a967e8c23370a706f08cc974e98f19da94d3d66"
 libc = "musl"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "bbb5b773368d4a24dceb820784b042df4fca30b5e88423e356ad0a6950e276b7"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.aarch64-linux-musl.tar.gz"
+    sha256 = "dc7f3f61db72f76b8e4845862d00a9b4860724b365a0fbf0ac24eea18aca2c00"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.aarch64-linux-musl.tar.gz"
 [[libwebsockets]]
 arch = "aarch64"
-git-tree-sha1 = "7a74863bca4c222955072ef24d633e2ede8ebcd6"
+git-tree-sha1 = "e64c7d00799aabe15817fd97053368790c08a192"
 os = "freebsd"
 
     [[libwebsockets.download]]
-    sha256 = "adb88514c55214dce6963e696ec54ee00155acb2d8346947e8dbced3e6946c4a"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "c3ae14bbec2f337fc0cd355e20d9d28c034b8025deb9e0f92a05ff02de9f9847"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.aarch64-unknown-freebsd.tar.gz"
 [[libwebsockets]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "5cd289378ca3f891b527de2882e1315528041cc0"
+git-tree-sha1 = "7e46589abcce9502eec18c8250667ae734daec76"
 libc = "glibc"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "5085e0c5ed9ca479f766f03b59975d667dfdd820a5b8335f10e433b0ccd4dfad"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "4fbe6138e8d05d2f53bb32d37c167568bac34b3313f1fdb9215739f9ea296583"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.armv6l-linux-gnueabihf.tar.gz"
 [[libwebsockets]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f7c050a43e8001233f791bc86da5b01a773820d3"
+git-tree-sha1 = "6eb859b689b96929570a27fcc0037c144675c864"
 libc = "musl"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "1c05e0c39164218e5cd70f69435c3dbf1b0017840576e0d546e1e9082a6909ef"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "adb0396cba6ebef289e3bd640ce9a4cac45d04521dc3b2ea840342b5dc6b09dd"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.armv6l-linux-musleabihf.tar.gz"
 [[libwebsockets]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "61ec1833781a99d70bb1f5a316bf62fe007b0ff9"
+git-tree-sha1 = "9921733ff0ab31ad66a2d343b4e76563c3bdd8bb"
 libc = "glibc"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "831f3382f340e2a15adf8fe96d58a5bc7301f3730adbb35d02820d6c47fe7857"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "5ffab1a1bb0f3e09fc9b9652ca24c45d1fe67e8e715c91df2833b37aa8e2d9d7"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.armv7l-linux-gnueabihf.tar.gz"
 [[libwebsockets]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "49ee57f1646cb81a2c8377bae3fefda272611ec9"
+git-tree-sha1 = "b8a30c6e76a521dc5099138898228e579076df81"
 libc = "musl"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "834f78d9f6771ddc6c4776bc04545793e43cc63faadb07be1ad6e2d7cdf9a660"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "9f170c7776a21d412d524dcb970c909bf2f3450c6d6f5c701e76a67a07516995"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.armv7l-linux-musleabihf.tar.gz"
 [[libwebsockets]]
 arch = "i686"
-git-tree-sha1 = "bcc6786019fce26fe9892edc450d3eece73e67c6"
+git-tree-sha1 = "b60907d4b3420f4d15722f3d68969d214b766c8e"
 libc = "glibc"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "491b6e57c967abc10cfae70564c8ed974cb3de20672e5c7bf1602a645d3fd868"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.i686-linux-gnu.tar.gz"
+    sha256 = "5f01508674c624ff5c6cd5672d10f8a0484b7fa0989df73d166a13aa5b077905"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.i686-linux-gnu.tar.gz"
 [[libwebsockets]]
 arch = "i686"
-git-tree-sha1 = "7858eed5f184fc00e2ef1a1773a0a9ea8f7c9bd6"
+git-tree-sha1 = "213e6b2f13a5e8b89123cba495d3db4c63e698dd"
 libc = "musl"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "deaab02d2cdad7c0dfbb5127c57cfce7a54faa8de3314fa4fd43d095d47cb79d"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.i686-linux-musl.tar.gz"
+    sha256 = "62132a079b518fc30156e7e6ae73e9a0eb48db49517af63594bce3ae5688f7e4"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.i686-linux-musl.tar.gz"
 [[libwebsockets]]
 arch = "powerpc64le"
-git-tree-sha1 = "bc2d2ce5d95d44f65420bf20365d6840c9a4dcde"
+git-tree-sha1 = "7f54ca762436b150ba46baea64595ddc21712568"
 libc = "glibc"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "09e97c9e7a6a0f3695af90cf80292f3cb8ddf6765f5e4581914618b17fd6b4b6"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "9d3527603ec4d7fcf5de3adad200eff4e18f236f1c8305848baac948881523b1"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.powerpc64le-linux-gnu.tar.gz"
 [[libwebsockets]]
 arch = "riscv64"
-git-tree-sha1 = "d571715e1372b18052b5323df9dbcf66dd71aaf8"
+git-tree-sha1 = "41db99a297a1ff418375226b2017e86deaee372f"
 libc = "glibc"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "c3403f4a2af3b9aa2f58e52a219837fc52f004adb2ce8725a2f6e065e86e7db9"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.riscv64-linux-gnu.tar.gz"
+    sha256 = "c7c2b2d0c63c191e6a635d39eecc6539eaa75759eedc0e1148483ef9c59bd3e9"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.riscv64-linux-gnu.tar.gz"
 [[libwebsockets]]
 arch = "x86_64"
-git-tree-sha1 = "301ff2fa5f39bb3423e2536c930d4493690fe7b9"
+git-tree-sha1 = "a4ce0ef8634a0ae2ff2b8302d72f16bb1ec80dfa"
 os = "macos"
 
     [[libwebsockets.download]]
-    sha256 = "10a82cc128e529f8691906c3f8a594cc7df8af781715b4d3b12ddc8492585f5f"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "496fed8af500af4e22bd5bf52125dcc76dfd944a9eaede99f26a48a57d607de2"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.x86_64-apple-darwin.tar.gz"
 [[libwebsockets]]
 arch = "x86_64"
-git-tree-sha1 = "a43b6728fe1c4aaf74583faad86a39165323ff5d"
+git-tree-sha1 = "e7ec14460565dfa00dc8eb2c9c5bdc2cf9e2c70e"
 libc = "glibc"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "2d8fc20fbbcb92c51c17f1e7dbcd384d72a94dbf7860ffbb6e91b584ee4aeee8"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "64dc269dd0db22c898e0c5a9bbc012e0be33d38ea1d95e1279dc460ddf9de6f0"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.x86_64-linux-gnu.tar.gz"
 [[libwebsockets]]
 arch = "x86_64"
-git-tree-sha1 = "3668b506bd693c14222304ccb3153e385172c827"
+git-tree-sha1 = "996349a293e16200c32b5090a734d6bdf4d6cfc6"
 libc = "musl"
 os = "linux"
 
     [[libwebsockets.download]]
-    sha256 = "89f88c664fdeda4e3adec028242637bd82100fe3c06e41365e8ec78b8f6efc75"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.x86_64-linux-musl.tar.gz"
+    sha256 = "a8eb6419233f2256758b0e69baf52b6eafc3f687309fa7a518ba2aed7c9517a0"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.x86_64-linux-musl.tar.gz"
 [[libwebsockets]]
 arch = "x86_64"
-git-tree-sha1 = "50b0eadb58ba1f950edf234944937f5c909041bd"
+git-tree-sha1 = "d4e158fa89c462ed2b39211c6fbb1a78e158e819"
 os = "freebsd"
 
     [[libwebsockets.download]]
-    sha256 = "513a7902f77adb131b44cf34e783afc00a4fad9ac7ce263461eadf2faf2056d4"
-    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.3.4+0/libwebsockets.v4.3.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "18acc64712a02e25d9358a730613ffd1bc79b3e89a9abf85e781206c71e46766"
+    url = "https://github.com/JuliaBinaryWrappers/libwebsockets_jll.jl/releases/download/libwebsockets-v4.4.0+0/libwebsockets.v4.4.0.x86_64-unknown-freebsd.tar.gz"
